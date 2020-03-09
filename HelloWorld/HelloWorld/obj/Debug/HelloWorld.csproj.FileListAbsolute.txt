@@ -1,0 +1,5 @@
+/Users/shaynabiohacked/Documents/csharp-projects/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/shaynabiohacked/Documents/csharp-projects/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/Users/shaynabiohacked/Documents/csharp-projects/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csprojAssemblyReference.cache
+/Users/shaynabiohacked/Documents/csharp-projects/HelloWorld/HelloWorld/obj/Debug/HelloWorld.exe
+/Users/shaynabiohacked/Documents/csharp-projects/HelloWorld/HelloWorld/obj/Debug/HelloWorld.pdb
