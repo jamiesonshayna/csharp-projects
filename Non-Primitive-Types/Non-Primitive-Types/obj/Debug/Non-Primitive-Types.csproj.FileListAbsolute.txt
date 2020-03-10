@@ -1,0 +1,5 @@
+/Users/shaynabiohacked/Documents/csharp-projects/Non-Primitive-Types/Non-Primitive-Types/bin/Debug/Non-Primitive-Types.exe
+/Users/shaynabiohacked/Documents/csharp-projects/Non-Primitive-Types/Non-Primitive-Types/bin/Debug/Non-Primitive-Types.pdb
+/Users/shaynabiohacked/Documents/csharp-projects/Non-Primitive-Types/Non-Primitive-Types/obj/Debug/Non-Primitive-Types.csprojAssemblyReference.cache
+/Users/shaynabiohacked/Documents/csharp-projects/Non-Primitive-Types/Non-Primitive-Types/obj/Debug/Non-Primitive-Types.exe
+/Users/shaynabiohacked/Documents/csharp-projects/Non-Primitive-Types/Non-Primitive-Types/obj/Debug/Non-Primitive-Types.pdb
